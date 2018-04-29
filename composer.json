@@ -1,5 +1,5 @@
 {
-  "name": "payeezy/payeezy-php",
+  "name": "365tickets/payeezy-php",
   "type": "library",
   "description": "Payeezy PHP Library",
   "keywords": [
@@ -26,11 +26,6 @@
   "autoload": {
     "psr-0": {
       "Payeezy_": "src/"
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "2.x-dev"
     }
   }
 }
