@@ -22,7 +22,7 @@ class Payeezy_Client
    */
   public static $url;
 
-  const VERSION = '1.0.0';
+  const VERSION = '2.0.1';
 
   /**
    * @return string The API key used for requests.
